@@ -1,0 +1,241 @@
+.wrapper p {
+  color: rgb(38, 34, 154);
+  font-family: "Lato";
+  font-weight: 400;
+}
+/*=====================header=================*/
+.header {
+}
+.header__title.first__title {
+  font-family: "Lato";
+  font-weight: 900;
+  color: steelblue;
+}
+.first__title {
+  color: blue;
+}
+/*===============first__nav==========*/
+.content__list {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(133, 22, 22);
+}
+.content__list #content-list__title {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: chartreuse;
+}
+#content-list__title {
+  color: yellow;
+}
+.content__list #content-list__title {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: rgb(104, 21, 78);
+}
+/*================page__andal===============*/
+.page__andal h2 {
+  color: violet;
+  font-family: "Lato";
+  font-weight: 900;
+}
+.andal-header__title {
+  font-family: "Roboto";
+  font-weight: 500;
+  color: turquoise;
+}
+#andal__header h2 {
+  font-family: "Roboto";
+  font-weight: 500;
+  color: rgb(25, 101, 42);
+}
+.andal-header__img {
+}
+.bold {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(128, 8, 8);
+}
+.andal-content__list a {
+  color: aqua;
+}
+.andal__item > p {
+  color: rgb(18, 18, 60);
+}
+.andal-histori__title {
+}
+.andal-culture__item + p {
+  color: yellowgreen;
+}
+h2.andal-culture__title {
+  color: yellow;
+}
+/*==============first-people=================*/
+.page__first-people h2 {
+  font-family: "Lato";
+  font-weight: 400;
+  color: brown;
+}
+.page__first-people span {
+  color: rgb(21, 55, 55);
+}
+h2.first-people__title {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(28, 129, 79);
+}
+.first-peoplel-header__img {
+}
+.bold {
+}
+.first-people-content__list a {
+  color: rgb(77, 122, 25);
+}
+.sublist a {
+  color: rgb(118, 73, 5);
+}
+.first-people__items p {
+  color: rgb(44, 206, 23);
+}
+.people-histori__title {
+}
+.arrival__subtitle,
+.intrusion__subtitle {
+  font-family: "Lato";
+  font-weight: 700;
+  color: yellowgreen;
+}
+.first-people-intrusion__item p {
+  color: aqua;
+}
+.intrusion__subtitle {
+}
+.first-people-posterity__item {
+}
+h2.posterity {
+  color: rgb(158, 14, 95);
+  font-family: "Larsseit";
+  font-weight: 400;
+}
+.first-people-facts__item {
+}
+.first-people__facts {
+}
+.first-people-facts__list p {
+  font-family: "Roboto";
+  font-weight: bold;
+
+  color: rgb(131, 80, 14);
+}
+/*==============page__dothraki============*/
+.page__dothraki {
+}
+.dothraki-header__title {
+  font-family: "Roboto";
+  font-weight: 400;
+  color: rgb(28, 54, 76);
+}
+.dothraki-header__img {
+}
+.bold {
+}
+.dothraki__list a {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(98, 165, 21);
+}
+.dothraki-society__item {
+}
+.society {
+  color: aqua;
+}
+h2.society {
+  color: blue;
+}
+.dotraki-society__item {
+}
+.society__list p {
+  color: rgb(9, 164, 161);
+}
+.dothraki-warriors__item {
+}
+h2.warriors {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: chartreuse;
+}
+.dothraki-religion__item {
+}
+.dothraki-religion,
+.famous-dothraki {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(143, 203, 14);
+}
+.dothraki-famous-dothraki__item {
+}
+.famous-dothraki {
+  color: rgb(150, 91, 13);
+}
+.famous-dothraki__list {
+}
+.dothraki-facts__item {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: black;
+}
+.dothraki-facts.facts__list {
+  color: rgb(22, 59, 92);
+}
+.facts__list {
+}
+/*==========page_ironborn========*/
+.page__ironborn {
+  font-family: "Lato";
+  font-weight: 900;
+  color: rgb(133, 22, 22);
+}
+.ironborn-header__title {
+  font-weight: 700;
+  color: rgb(66, 195, 19);
+}
+.ironborn-header__img {
+}
+.bold {
+}
+.ironborn__list {
+  color: aqua;
+}
+.ironborn__item p {
+  color: rgb(197, 101, 17);
+}
+.ironborn-histori {
+}
+.ironborn-religion__item {
+}
+.ironborn-religion {
+}
+.ironborn-culture__item {
+}
+.ironborn-culture {
+}
+.ironborn-fact__item {
+}
+.ironborn-facts {
+}
+.ironborn-facts__list a {
+  font-weight: 700;
+  color: rgb(123, 9, 9);
+}
+/*=========footer=======*/
+.content-footer__page {
+  font-family: "Lato";
+  font-weight: 900;
+}
+div.header__page {
+  color: aqua;
+}
+.nav__page {
+  font-weight: 400;
+  color: chartreuse;
+}
